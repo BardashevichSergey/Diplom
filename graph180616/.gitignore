@@ -1,0 +1,11 @@
+/Graph/obj/*
+/Graph/bin/Debug/Graph.dll
+/GraphExample/bin/Debug/Graph.dll
+/GraphExample/bin/Debug/GraphNodes.exe
+/GraphExample/obj/*
+*.suo
+*.pdb
+*.vshost.exe
+*.vshost.exe
+*.vshost.exe.manifest
+*.csproj.user

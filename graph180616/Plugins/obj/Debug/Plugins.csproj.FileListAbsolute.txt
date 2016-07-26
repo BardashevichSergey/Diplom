@@ -1,0 +1,46 @@
+S:\BSTU\Диплом\graph180516\Plugins\bin\Debug\opencv_core220.dll
+S:\BSTU\Диплом\graph180516\Plugins\bin\Debug\opencv_imgproc220.dll
+S:\BSTU\Диплом\graph180516\Plugins\bin\Debug\Plugins.dll
+S:\BSTU\Диплом\graph180516\Plugins\bin\Debug\Plugins.pdb
+S:\BSTU\Диплом\graph180516\Plugins\bin\Debug\GraphNodes.exe
+S:\BSTU\Диплом\graph180516\Plugins\bin\Debug\Graph.dll
+S:\BSTU\Диплом\graph180516\Plugins\bin\Debug\Emgu.CV.dll
+S:\BSTU\Диплом\graph180516\Plugins\bin\Debug\Emgu.CV.UI.dll
+S:\BSTU\Диплом\graph180516\Plugins\bin\Debug\Emgu.Util.dll
+S:\BSTU\Диплом\graph180516\Plugins\bin\Debug\GraphNodes.pdb
+S:\BSTU\Диплом\graph180516\Plugins\bin\Debug\Graph.pdb
+S:\BSTU\Диплом\graph180516\Plugins\obj\Debug\Plugins.csprojResolveAssemblyReference.cache
+S:\BSTU\Диплом\graph180516\Plugins\obj\Debug\Plugins.dll
+S:\BSTU\Диплом\graph180516\Plugins\obj\Debug\Plugins.pdb
+S:\BSTU\Диплом\graph180516\GraphExample\bin\Debug\opencv_core220.dll
+S:\BSTU\Диплом\graph180516\GraphExample\bin\Debug\opencv_imgproc220.dll
+S:\BSTU\Диплом\graph180516\GraphExample\bin\Debug\Plugins.dll
+S:\BSTU\Диплом\graph180516\GraphExample\bin\Debug\Plugins.pdb
+S:\BSTU\Диплом\graph180516 — копия\GraphExample\bin\Debug\opencv_core220.dll
+S:\BSTU\Диплом\graph180516 — копия\GraphExample\bin\Debug\opencv_imgproc220.dll
+S:\BSTU\Диплом\graph180516 — копия\GraphExample\bin\Debug\Plugins.dll
+S:\BSTU\Диплом\graph180516 — копия\GraphExample\bin\Debug\Plugins.pdb
+S:\BSTU\Диплом\graph180516 — копия\Plugins\obj\Debug\Plugins.csprojResolveAssemblyReference.cache
+S:\BSTU\Диплом\graph180516 — копия\Plugins\obj\Debug\Plugins.dll
+S:\BSTU\Диплом\graph180516 — копия\Plugins\obj\Debug\Plugins.pdb
+S:\BSTU\Диплом\graph280516 — копия\GraphExample\bin\Debug\opencv_core220.dll
+S:\BSTU\Диплом\graph280516 — копия\GraphExample\bin\Debug\opencv_imgproc220.dll
+S:\BSTU\Диплом\graph280516 — копия\GraphExample\bin\Debug\Plugins.dll
+S:\BSTU\Диплом\graph280516 — копия\GraphExample\bin\Debug\Plugins.pdb
+S:\BSTU\Диплом\graph280516 — копия\Plugins\obj\Debug\Plugins.csprojResolveAssemblyReference.cache
+S:\BSTU\Диплом\graph280516 — копия\Plugins\obj\Debug\Plugins.dll
+S:\BSTU\Диплом\graph280516 — копия\Plugins\obj\Debug\Plugins.pdb
+S:\BSTU\Диплом\graph050616\GraphExample\bin\Debug\opencv_core220.dll
+S:\BSTU\Диплом\graph050616\GraphExample\bin\Debug\opencv_imgproc220.dll
+S:\BSTU\Диплом\graph050616\GraphExample\bin\Debug\Plugins.dll
+S:\BSTU\Диплом\graph050616\GraphExample\bin\Debug\Plugins.pdb
+S:\BSTU\Диплом\graph050616\Plugins\obj\Debug\Plugins.csprojResolveAssemblyReference.cache
+S:\BSTU\Диплом\graph050616\Plugins\obj\Debug\Plugins.dll
+S:\BSTU\Диплом\graph050616\Plugins\obj\Debug\Plugins.pdb
+S:\BSTU\Диплом\graph180616\GraphExample\bin\Debug\opencv_core220.dll
+S:\BSTU\Диплом\graph180616\GraphExample\bin\Debug\opencv_imgproc220.dll
+S:\BSTU\Диплом\graph180616\GraphExample\bin\Debug\Plugins.dll
+S:\BSTU\Диплом\graph180616\GraphExample\bin\Debug\Plugins.pdb
+S:\BSTU\Диплом\graph180616\Plugins\obj\Debug\Plugins.csprojResolveAssemblyReference.cache
+S:\BSTU\Диплом\graph180616\Plugins\obj\Debug\Plugins.dll
+S:\BSTU\Диплом\graph180616\Plugins\obj\Debug\Plugins.pdb

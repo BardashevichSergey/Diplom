@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Graph.Compatibility.AlwaysCompatible" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Compatibility\AlwaysCompatible.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Graph.Compatibility.NeverCompatible" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Compatibility\NeverCompatible.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Graph.Compatibility.TagTypeCompatibility" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Compatibility\TagTypeCompatibility.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Graph.GraphConstants" Collapsed="true">
+    <Position X="23" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAJEIAgEAkAAAIIAAIBQFACAAAQAIBAAAAAADA=</HashCode>
+      <FileName>GraphConstants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.GraphControl">
+    <Position X="24.75" Y="1.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Graph.GraphControl.CommandMode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GraphControl.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>4OSoECEF8DqCSgGIEAyEBpaqghYRAQBRMgQhRiEKFAA=</HashCode>
+      <FileName>GraphControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.GraphRenderer" Collapsed="true">
+    <Position X="26.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAACAAgIBAAAAIAAAAQAAgAgAAAAAhBAABAAECAAQgA=</HashCode>
+      <FileName>GraphRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.NodeEventArgs" Collapsed="true">
+    <Position X="26.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.ElementEventArgs" Collapsed="true">
+    <Position X="21.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.AcceptNodeEventArgs" Collapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.AcceptElementLocationEventArgs" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.Node" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Graph.Node.process" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Node.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AkAAhAAACAEgCEAIAAIAAAUAgQAIAFJUMIBCADAAAIA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Graph.NodeConnectionEventArgs" Collapsed="true">
+    <Position X="26.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAEAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodeConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.AcceptNodeConnectionEventArgs" Collapsed="true">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodeConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.NodeConnection" BaseTypeListCollapsed="true">
+    <Position X="23" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAABAAAAAAgAAABAAAAAAQAAAAIAAAUAAACAAAAAIA=</HashCode>
+      <FileName>NodeConnection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Graph.NodeConnector">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAIAAAAAAAAAEAAAAAAAEAAACAAGIACA=</HashCode>
+      <FileName>NodeConnector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Graph.NodeInputConnector">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodeConnector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.NodeOutputConnector">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodeConnector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.NodeItemEventArgs" Collapsed="true">
+    <Position X="19.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodeItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.NodeItem" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAABAAAAAAgAQAAAABIEAACEAAAAAAFABACAAEAAAA=</HashCode>
+      <FileName>NodeItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Graph.NodeSelection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodeSelection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Graph.SelectionForm" Collapsed="true">
+    <Position X="23" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQCAAAAACBAEACAAAAAAAAAIBAAAAAAAA=</HashCode>
+      <FileName>SelectionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.TextEditForm" Collapsed="true">
+    <Position X="26.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAACAAACAAEACAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>TextEditForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.Items.NodeCheckboxItem" Collapsed="true">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAABAAAAAAACAAAAAAAACEAAAIAAAABAACAAAAAA=</HashCode>
+      <FileName>Items\NodeCheckboxItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.Items.NodeColorItem" Collapsed="true">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAQABAAAAAAAAAAAAAAAACAAAAoCAAABAAiAAAAAA=</HashCode>
+      <FileName>Items\NodeColorItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.Items.AcceptNodeSelectionChangedEventArgs" Collapsed="true">
+    <Position X="24.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEAAAAAAAA=</HashCode>
+      <FileName>Items\NodeDropDownItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.Items.NodeDropDownItem" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAACAAAAAAAAAQAAAAAIAABAJAAQAAACAA=</HashCode>
+      <FileName>Items\NodeDropDownItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.Items.NodeImageItem" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAABAAAAAAAAAAAAEECAAAAACAAABAAAAAAAAA=</HashCode>
+      <FileName>Items\NodeImageItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.Items.NodeLabelItem" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAABAAAAAAAAAAAAAAAAAAAAAIAAAABAACAAAAAA=</HashCode>
+      <FileName>Items\NodeLabelItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.Items.NodeNumericSliderItem" Collapsed="true">
+    <Position X="12.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Items\NodeNumericSliderItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.Items.NodeSliderItem" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAQABAAEAAAQgAAABA2AAiAEAAIiAAABAgCAABAAA=</HashCode>
+      <FileName>Items\NodeSliderItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.Items.AcceptNodeTextChangedEventArgs" Collapsed="true">
+    <Position X="26.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Items\NodeTextBoxItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.Items.NodeTextBoxItem" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <InheritanceLine Type="Graph.NodeItem" ManuallyRouted="true">
+      <Path>
+        <Point X="10" Y="1.062" />
+        <Point X="10" Y="1.366" />
+        <Point X="6" Y="1.366" />
+        <Point X="6" Y="2.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>gAAAAABAAAAAQAAAAAAAAAQAAAAAIAABABAACAAAAAA=</HashCode>
+      <FileName>Items\NodeTextBoxItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graph.Items.NodeTitleItem" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAACAAAAAEAAAAAAAAAAAAAAIAAAEBAAAAAAAAA=</HashCode>
+      <FileName>Items\NodeTitleItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Graph.IElement" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IElement.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Graph.Compatibility.ICompatibilityStrategy" Collapsed="true">
+    <Position X="19.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Compatibility\ICompatibilityStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Graph.ElementType" Collapsed="true">
+    <Position X="19.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAEAAAAACAgAAAAQAAAAAAACAAEAAAA=</HashCode>
+      <FileName>ElementType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Graph.RenderState" Collapsed="true">
+    <Position X="19.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAAAAAAAAARAAAAAAACAAAAAIAAAAAAQAAAAEAAAA=</HashCode>
+      <FileName>RenderState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Graph.AcceptElement" Collapsed="true">
+    <Position X="19.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GraphControl.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
